@@ -1,8 +1,6 @@
-## 目录
+## ET-yzk’s Blog
 
-### 0. [Init](init.md)
-
-> GithubPage 初始化页
+## 转载记录
 
 ### 1. [Vue 跨平台性能优化十法](Vue 跨平台性能优化十法.md)
 
@@ -15,4 +13,16 @@
 > From 知乎
 >
 > 2021.10.11
+
+## 问题记录
+
+### 1. [Conda - Downloaded bytes did not match Content-Length](Conda - Downloaded bytes did not match Content-Length.md)
+
+> 2021.10.13
+
+## 其他
+
+[INIT](init.md)
+
+> GithubPage 初始化页
 
