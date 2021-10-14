@@ -1,4 +1,4 @@
-## ET-yzk’s Blog
+# ET-yzk’s
 
 ## 转载记录
 
@@ -7,6 +7,8 @@
 > From 腾讯技术工程
 >
 > 2021.10.08
+
+---
 
 ## 问题记录
 
@@ -20,13 +22,33 @@
 >
 > 2021.10.11
 
-### 日常记录
+### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./reprint/Python cls 与 self，@classmethod 与 @staticmethod.md)
+
+> From 知乎
+>
+> 2021.10.14
+
+---
+
+## 日常记录
 
 ### 1. [Ubuntu crontab 自动任务配置](./daily/Ubuntu crontab 自动任务配置.md)
 
 > 2020.01.15
 
+### 2. [持续集成]()
+
+### 3. [Dockerfile]()
+
+### 4. [Python中循环代码优化](./daily/Python中循环代码优化.md)
+
+> 2021.10.14
+
+---
+
 ## 其他
+
+### 0. [README](README.md)
 
 ### 1. [INIT](./other/init.md)
 
