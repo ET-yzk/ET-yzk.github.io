@@ -1,4 +1,4 @@
-# Python: cls 与 self，@classmethod 与 @staticmethod.md
+# Python: cls 与 self，@classmethod 与 @staticmethod
 
 > 作者：[秦风](https://www.zhihu.com/people/mamingqing)，每个人对他所属的社会都有责任，那个社会的弊病也有他一份。
 
