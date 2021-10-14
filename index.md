@@ -22,7 +22,7 @@
 >
 > 2021.10.11
 
-### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./reprint/Python cls 与 self，@classmethod 与 @staticmethod.md)
+### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./reprint/Python cls 与 self, classmethod 与 staticmethod.md)
 
 > From 知乎
 >
