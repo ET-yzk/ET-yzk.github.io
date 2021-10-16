@@ -22,12 +22,15 @@
 >
 > 2021.10.11
 
-### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./reprint/Python cls 与 self, classmethod 与 staticmethod.md)
+### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./problem/Python cls 与 self, classmethod 与 staticmethod.md)
 
 > From 知乎
 >
 > 2021.10.14
 
+### 4. [微信小程序后端开发踩坑之Django](./problem/微信小程序后端开发踩坑之Django.md)
+
+> …
 ---
 
 ## 日常记录
@@ -38,11 +41,27 @@
 
 ### 2. [持续集成]()
 
+> …
+
 ### 3. [Dockerfile]()
+
+> …
 
 ### 4. [Python中循环代码优化](./daily/Python中循环代码优化.md)
 
 > 2021.10.14
+
+### 5. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
+
+> 2021.10.14 - ...
+
+### 6. [Nginx+Uwgix+Django]()
+
+> …
+
+### 7. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
+
+> 2021.10.16 - …
 
 ---
 
@@ -54,3 +73,6 @@
 
 > GithubPage 初始化页
 
+### 2. [阿里云轻量服务器WordPress=>微信小程序后端](./other/阿里云轻量服务器WordPress 微信小程序后端.md)
+
+> 2021.10.04
