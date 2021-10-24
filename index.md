@@ -1,5 +1,21 @@
 # ET-yzk’s
 
+### TODO
+
+> 协程
+>
+> C++
+>
+> Nginx+Uwgix+Django
+>
+> Dockfile
+>
+> 持续集成
+>
+> Devops
+
+---
+
 ## 转载记录
 
 ### 1. [Vue 跨平台性能优化十法](./reprint/Vue 跨平台性能优化十法.md)
@@ -35,33 +51,27 @@
 
 ## 日常记录
 
-### 1. [Ubuntu crontab 自动任务配置](./daily/Ubuntu crontab 自动任务配置.md)
+### 1. [Ubuntu](./daily/Ubuntu.md)
 
-> 2020.01.15
+> 2020.01.15 - …
 
-### 2. [持续集成]()
-
-> …
-
-### 3. [Dockerfile]()
-
-> …
-
-### 4. [Python中循环代码优化](./daily/Python中循环代码优化.md)
+### 2. [Python中循环代码优化](./daily/Python中循环代码优化.md)
 
 > 2021.10.14
 
-### 5. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
+### 3. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
 
 > 2021.10.14 - ...
 
-### 6. [Nginx+Uwgix+Django]()
-
-> …
-
-### 7. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
+### 4. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
 
 > 2021.10.16 - …
+
+### 5. [协程](./daily/协程.md)
+
+> 2021.10.24
+>
+> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#Kotlin Jetpack 实战：图解协程原理)
 
 ---
 
@@ -73,6 +83,6 @@
 
 > GithubPage 初始化页
 
-### 2. [阿里云轻量服务器WordPress=>微信小程序后端](./other/阿里云轻量服务器WordPress 微信小程序后端.md)
+### 2. [阿里云轻量服务器WordPress自定义服务](./other/阿里云轻量服务器WordPress 自定义服务.md)
 
 > 2021.10.04
