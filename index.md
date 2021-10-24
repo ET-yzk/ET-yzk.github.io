@@ -46,7 +46,7 @@
 
 ### 4. [微信小程序后端开发踩坑之Django](./problem/微信小程序后端开发踩坑之Django.md)
 
-> …
+> 2021.10.20
 ---
 
 ## 日常记录
@@ -71,7 +71,7 @@
 
 > 2021.10.24
 >
-> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#Kotlin Jetpack 实战：图解协程原理)
+> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#前言)
 
 ---
 
