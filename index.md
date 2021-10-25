@@ -16,6 +16,41 @@
 
 ---
 
+## 日常记录
+
+### 1. [Ubuntu](./daily/Ubuntu.md)
+
+> 2020.01.15 - …
+
+### 2. [Python中循环代码优化](./daily/Python中循环代码优化.md)
+
+> 2021.10.14
+
+### 3. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
+
+> 2021.10.14 - ...
+
+### 4. [Listary & Everything](./daily/Listary & Everything.md)
+
+> 2021.10.14
+
+### 5. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
+
+> 2021.10.16 - …
+
+### 6. [协程](./daily/协程.md)
+
+> 2021.10.24
+>
+> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#前言)
+
+### 7. [函数回调](./daily/函数回调.md)
+
+> From 知乎
+> 2021.10.25
+
+---
+
 ## 转载记录
 
 ### 1. [Vue 跨平台性能优化十法](./reprint/Vue 跨平台性能优化十法.md)
@@ -50,36 +85,6 @@
 
 ---
 
-## 日常记录
-
-### 1. [Ubuntu](./daily/Ubuntu.md)
-
-> 2020.01.15 - …
-
-### 2. [Python中循环代码优化](./daily/Python中循环代码优化.md)
-
-> 2021.10.14
-
-### 3. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
-
-> 2021.10.14 - ...
-
-### 4. [Listary & Everything](./daily/Listary & Everything.md)
-
-> 2021.10.14
-
-### 5. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
-
-> 2021.10.16 - …
-
-### 6. [协程](./daily/协程.md)
-
-> 2021.10.24
->
-> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#前言)
-
----
-
 ## 其他
 
 ### 0. [README](README.md)
@@ -92,7 +97,11 @@
 
 > 2021.10.04
 
-## Something Interesting
+---
+
+## WE DOo.
+
+> Something Interesting
 
 - [iSTEP](http://istep.yzketx.icu)
 - …
