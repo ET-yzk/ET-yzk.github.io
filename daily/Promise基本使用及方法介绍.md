@@ -1,5 +1,7 @@
 # Promise基本使用及方法介绍
 
+[TOC]
+
 > [🌐](https://www.jianshu.com/p/270fec5b33ce)
 
 ## 含义
