@@ -64,11 +64,15 @@
 
 > 2021.10.14 - ...
 
-### 4. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
+### 4. [Listary & Everything](./daily/Listary & Everything.md)
+
+> 2021.10.14
+
+### 5. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
 
 > 2021.10.16 - …
 
-### 5. [协程](./daily/协程.md)
+### 6. [协程](./daily/协程.md)
 
 > 2021.10.24
 >
