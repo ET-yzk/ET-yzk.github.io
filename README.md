@@ -2,7 +2,6 @@
 
 > Powered by zkye
 
-Blogs
-
+Life & Blog
 
 

@@ -22,7 +22,7 @@
 
 > 2020.01.15 - …
 
-### 2. [Python中循环代码优化](./daily/Python中循环代码优化.md)
+### 2. [Python 中循环代码优化](./daily/Python中循环代码优化.md)
 
 > 2021.10.14
 
@@ -34,7 +34,7 @@
 
 > 2021.10.14
 
-### 5. [Promise基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
+### 5. [Promise 基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
 
 > 2021.10.16 - …
 
@@ -68,7 +68,7 @@
 
 > 2021.10.13
 
-### 2. [Microsoft拼音卡顿问题](./problem/Microsoft拼音卡顿问题.md)
+### 2. [Microsoft 拼音卡顿问题](./problem/Microsoft拼音卡顿问题.md)
 
 > From 知乎
 >
@@ -80,13 +80,17 @@
 >
 > 2021.10.14
 
-### 4. [微信小程序后端开发踩坑之Django](./problem/微信小程序后端开发踩坑之Django.md)
+### 4. [微信小程序后端开发踩坑之 Django](./problem/微信小程序后端开发踩坑之Django.md)
 
 > 2021.10.20 
 
 ### 5. [Jupyter Lab](./problem/jupyterlab.md)
 
 > 2021.10.28
+
+### 6. [Vim](./problem/vim.md)
+
+> 2021.10,30
 
 ---
 
