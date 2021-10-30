@@ -1,6 +1,6 @@
 # vim 常见问题
 
-### 问题 1
+## 问题 1
 
 在 Windows Powershell 中通过 vim 编辑并保存文件，会多出 `.filename.un~` & `.filename~` 文件
 
@@ -10,7 +10,7 @@
 
 ### 解决 1
 
-1. 找到安装目录下的 _vimrc( Linux 为 ~/.vimrc )，在文件末尾插入:
+1. 找到安装目录下的 _vimrc ( Linux 为 ~/.vimrc )，在文件末尾插入:
 
     ```bash
     " 关闭保存文件再次打开的undo功能（.filename.un~文件将不会生成）"
@@ -21,7 +21,7 @@
 
 ---
 
-### 问题 2
+## 问题 2
 
 在 Windows Powershell 中通过 vim 编辑文件，输入中文后保存，再 cat 输出时乱码，如下：
 
@@ -33,7 +33,7 @@
 
 ### 解决 2
 
-1. 找到安装目录下的 _vimrc( Linux 为 ~/.vimrc )，在文件末尾插入:
+1. 找到安装目录下的 _vimrc ( Linux 为 ~/.vimrc )，在文件末尾插入:
 
     ```bash
     " 设置默认编码格式，文件编码格式，终端编码格式"
