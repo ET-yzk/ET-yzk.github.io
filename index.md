@@ -1,6 +1,6 @@
-# [ET-yzk](https://github.com/ET-yzk)’s
+# 👻[ET-yzk](https://github.com/ET-yzk)’s
 
-### TODO
+### 🏷️TODO
 
 > 协程
 >
@@ -16,7 +16,7 @@
 
 ---
 
-## 日常记录
+## 📔日常记录
 
 ### 1. [Ubuntu](./daily/Ubuntu.md)
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 转载记录
+## 🛫转载记录
 
 ### 1. [Vue 跨平台性能优化十法](./reprint/Vue 跨平台性能优化十法.md)
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 问题记录
+## 🐱‍💻问题记录
 
 ### 1. [Conda - Downloaded bytes did not match Content-Length](./problem/Conda - Downloaded bytes did not match Content-Length.md)
 
@@ -94,9 +94,7 @@
 
 ---
 
-## 其他
-
-### 0. [README](README.md)
+## 💰其他
 
 ### 1. [INIT](./other/init.md)
 
@@ -108,10 +106,12 @@
 
 ---
 
-## WE DOo.
+## 🌌WE DOo.
 
 > Something Interesting
 
 - [iSTEP](http://istep.yzketx.icu)
 - …
+
+✨[README](README.md)
 
