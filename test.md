@@ -12,3 +12,5 @@ tags:
 
 # 🪐 Test
 
+[Go to the Home Page]({{ '/' | absolute_url }})
+
