@@ -8,7 +8,7 @@
 
 ### 解决
 
-直接通过链接下载，将压缩包解压至本地 `.gradle\wrapper\dists` 目录。
+通过链接下载文件，直接将压缩包移至本地 `.gradle\wrapper\dists\gradle-x.x-bin/all\随机码` 目录。
 
-示例目录: `C:\Users\username\.gradle\wrapper\dists`
+示例目录: `C:\Users\15817\.gradle\wrapper\dists\gradle-5.6.4-all\ankdp27end7byghfw1q2sw75f`
 
