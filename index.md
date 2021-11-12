@@ -100,6 +100,10 @@
 
 > 2021.10,30
 
+### 7. [Android Studio: Could not install Gradle distribution](./problem/Android Studio.md#Could not install Gradle distribution)
+
+> 2021.11.12
+
 ---
 
 ## 💰其他
