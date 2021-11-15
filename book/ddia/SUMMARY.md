@@ -1,6 +1,6 @@
 # Summary
 
-* [简介](README.md)
+* [简介](DDIA_README.md)
 * [序言](preface.md)
 * [第一部分：数据系统的基石](part-i.md)
     * [第一章：可靠性、可伸缩性、可维护性](ch1.md)
@@ -73,5 +73,4 @@
         * [本章小结](ch12.md#本章小结)
 * [术语表](glossary.md)
 * [后记](colophon.md)
-
 
