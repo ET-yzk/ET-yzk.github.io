@@ -1,4 +1,10 @@
-# [Designing Data-Intensive Applications](./ddia/SUMMARY.md)
+# Designing Data-Intensive Applications
+
+## 书籍
+
+[📖](http://ddia.vonng.com/#/) by 原翻译作者
+
+[📗](./ddia/SUMMARY.md) clone from it
 
 ## 专业名词
 

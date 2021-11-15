@@ -48,7 +48,7 @@
 
 ### [设计数据密集型应用](./book/Designing Data-Intensive Applications.md)
 
-> 2021.11.15 -
+> [📖](http://ddia.vonng.com/#/) 2021.11.15 -
 
 ---
 
