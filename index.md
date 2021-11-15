@@ -2,11 +2,9 @@
 
 ### 🏷️TODO
 
-> 协程
->
-> C++
->
 > Nginx+Uwgix+Django
+>
+> SpringBoot
 >
 > Dockfile
 >
@@ -16,59 +14,47 @@
 
 ---
 
-## 📔日常记录
+## 📔[日常记录](./日常记录.md)
 
-### 1. [Ubuntu](./daily/Ubuntu.md)
-
-> 2020.01.15 - …
-
-### 2. [Python 中循环代码优化](./daily/Python中循环代码优化.md)
-
-> 2021.10.14
-
-### 3. [微信小程序后端开发环境部署](./daily/微信小程序后端开发环境部署.md)
-
-> 2021.10.14 - ...
-
-### 4. [Listary & Everything](./daily/Listary & Everything.md)
-
-> 2021.10.14
-
-### 5. [Promise 基本使用及方法介绍](./daily/Promise基本使用及方法介绍.md)
-
-> 2021.10.16 - …
-
-### 6. [协程](./daily/协程.md)
-
-> 2021.10.24
->
-> 转载：[Kotlin Jetpack 实战：图解协程原理](./daily/协程.md#前言)
-
-### 7. [函数回调](./daily/函数回调.md)
+### [函数回调](./daily/函数回调.md)
 
 > From 知乎
 > 
 > 2021.10.25
 
-### 8. [Vim Intro](./daily/Vim.md)
+### [Vim Intro](./daily/Vim.md)
 
 > 2021.10.30
 
-### 9. [`__str__` 和 `__repr__` 的异同](./daily/str&repr.md)
+### [`__str__` 和 `__repr__` 的异同](./daily/str&repr.md)
 
 > 2021.11.1
 
-### 10. [Java Bean](./daily/javabean.md)
+### [Java Bean](./daily/javabean.md)
 
 > 2021.11.14
 >
 > [Java bean 是个什么概念？](./daily/javabean.md#Java bean 是个什么概念)
 
+### [类内部定义自身](./daily/类内部定义自身.md)
+
+> 2021.11.14
+>
+> 为什么C++类定义中，数据成员不能被指定为自身类型，但可以是指向自身类型的指针或引用？
+
 ---
 
-## 🛫转载记录
+## 🍃[读书笔记](./读书笔记.md)
 
-### 1. [Vue 跨平台性能优化十法](./reprint/Vue 跨平台性能优化十法.md)
+### [设计数据密集型应用](./book/Designing Data-Intensive Applications.md)
+
+> 2021.11.15 -
+
+---
+
+## 🔭[转载记录](./转载记录.md)
+
+### [Vue 跨平台性能优化十法](./reprint/Vue 跨平台性能优化十法.md)
 
 > From 腾讯技术工程
 >
@@ -76,59 +62,49 @@
 
 ---
 
-## 🐱‍💻问题记录
+## 📡[问题记录](./问题记录.md)
 
-### 1. [Conda - Downloaded bytes did not match Content-Length](./problem/Conda - Downloaded bytes did not match Content-Length.md)
-
-> 2021.10.13
-
-### 2. [Microsoft 拼音卡顿问题](./problem/Microsoft拼音卡顿问题.md)
-
-> From 知乎
->
-> 2021.10.11
-
-### 3. [Python cls 与 self，@classmethod 与 @staticmethod](./problem/Python cls 与 self, classmethod 与 staticmethod.md)
+### [Python cls 与 self，@classmethod 与 @staticmethod](./problem/Python cls 与 self, classmethod 与 staticmethod.md)
 
 > From 知乎
 >
 > 2021.10.14
 
-### 4. [微信小程序后端开发踩坑之 Django](./problem/微信小程序后端开发踩坑之Django.md)
+### [微信小程序后端开发踩坑之 Django](./problem/微信小程序后端开发踩坑之Django.md)
 
 > 2021.10.20 
 
-### 5. [Jupyter Lab](./problem/jupyterlab.md)
+### [Jupyter Lab](./problem/jupyterlab.md)
 
 > 2021.10.28
 
-### 6. [Vim](./problem/vim.md)
+###  [Vim](./problem/vim.md)
 
 > 2021.10,30
 
-### 7. [Android Studio: Could not install Gradle distribution](./problem/Android Studio.md#Could not install Gradle distribution)
+### [Android Studio: Could not install Gradle distribution](./problem/Android Studio.md#Could not install Gradle distribution)
 
 > 2021.11.12
 
 ---
 
-## 💰其他
+## 🎆[其他](./其他.md)
 
-### 1. [INIT](./other/init.md)
+### [INIT](./other/init.md)
 
 > GithubPage 初始化页
 
-### 2. [阿里云轻量服务器自定义服务](./other/阿里云轻量服务器自定义服务.md)
+###  [阿里云轻量服务器自定义服务](./other/阿里云轻量服务器自定义服务.md)
 
 > 2021.10.04
 
 ---
 
-## 🌌WE DOo.
+## 🌌[WE](http://blog.yzketx.online) DOo.
 
 > Something Interesting
 
-- [iSTEP](http://istep.yzketx.icu)
+- [iSTEP](http://istep.yzketx.online)
 - …
 
 ✨[README](README.md)
