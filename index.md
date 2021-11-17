@@ -104,7 +104,7 @@
 
 > Something Interesting
 
-- [iSTEP 平台](http://istep.yzketx.online)  [iSTEP’s Blogs]([iSTEP's Blog (yzketx.online)](https://blog.yzketx.online/iSTEP.github.io/))
+- [iSTEP 平台](http://istep.yzketx.online)  [iSTEP's Blog](https://blog.yzketx.online/iSTEP.github.io/)
 - …
 
 ✨[README](README.md)
