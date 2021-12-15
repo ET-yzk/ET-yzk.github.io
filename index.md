@@ -1,16 +1,16 @@
+
+
 # [👻](https://github.com/ET-yzk)ET-yzk’s
 
 ### 🏷️TODO
 
-> Nginx+Uwgix+Django
+> Nginx
 >
 > SpringBoot
 >
-> Dockfile
->
 > 持续集成
 >
-> Devops
+> Restful含义
 
 ---
 
@@ -49,6 +49,10 @@
 ### [动态规划简单理解](./daily/dp.md)
 
 > 2021.11.23
+
+## [BitMap](./daily/bitmap.md)
+
+> 2021.12.4
 
 ---
 
