@@ -32,3 +32,13 @@ pip install --upgrade jupyterlab
 conda update jupyterlab
 ```
 
+## conda虚拟环境下JupyterLab关联Pytorch
+
+```bash
+activate <虚拟环境名>
+# 安装 IPython kernel for Jupyter
+conda install ipykernel -y
+# 导入 pytorch 虚拟环境到 ipykernel
+python -m ipykernel install --user --name <虚拟环境名> --display-name "Python PyTorch"
+```
+
