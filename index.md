@@ -126,7 +126,7 @@
 👾 [Test](./test.md)
 
 <script>
-  fetch('https://v1.hitokoto.cn')
+  fetch('https://v1.hitokoto.cn/?c=d&c=e&c=i&c=j')
     .then(response => response.json())
     .then(data => {
       const hitokoto = document.getElementById('hitokoto_text')
@@ -135,3 +135,4 @@
     })
     .catch(console.error)
 </script>
+
